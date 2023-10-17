@@ -16,7 +16,7 @@ Your progress is saved in the browser's local storage. Refreshing the page will 
 
 ## About
 
-This game was created by sebCzabak(https://github.com/sebCzabak).
+This game was created by Sebastian Czabak(https://github.com/sebCzabak).
 
 ## Contact
 
