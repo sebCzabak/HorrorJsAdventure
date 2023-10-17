@@ -10,6 +10,7 @@ You can make choices that will lead you through different scenarios and possibly
 3. **Repeat**: After making a choice, a new scenario will be presented. Repeat the process until you finish the game.
 
 ## Game Progress
+Browser version is in progess. You can play in console right now.
 //TODO
 Your progress is saved in the browser's local storage. Refreshing the page will not reset your game.
 
