@@ -67,10 +67,10 @@ const scenarios = [
         ]
     }
 ];
-document.getElementById('submit').addEventListener('click', function () {
-    const playerChoice = document.getElementById('choices').value;
-    handleChoice(playerChoice);
-});
+// document.getElementById('submit').addEventListener('click', function () {
+//     const playerChoice = document.getElementById('choices').value;
+//     handleChoice(playerChoice);
+// });
 
 const presentScenario = async (scenario) => {
     const answers = await inquirer.prompt([
